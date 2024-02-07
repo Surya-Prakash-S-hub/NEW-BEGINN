@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SURYA PRAKASH S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React** **Django**
+- 🌱 I’m currently learning **React**,**Django**
 
 - 📫 How to reach me **sambanthandeivanai@gmail.com**
 

@@ -69,6 +69,9 @@ An interactive horror-themed adventure game teaching Python loops.
 </div>
 
 ---
+---
+**VIEW MY PROFILE**
+
 
 <div align="center" class="fade-in" >
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00C58E&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!+🚀;Feel+free+to+connect+and+collaborate+🤝" alt="Thanks for visiting!" />
